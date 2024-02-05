@@ -15,4 +15,4 @@ COLLAB LINK:
 https://drive.google.com/file/d/1KCKVp1dsBARQK75J4D19tvoZa0LoxueE/view?usp=sharing
 
 PPT LINK:
-https://drive.google.com/file/d/1V98sVZH0zfgIEQytSAQ_pNgdkeyYeItV/view?usp=sharing
+https://drive.google.com/file/d/1V98sVZH0zfgIEQytSAQ_pNgdkeyYeItV/view?usp=sharing.
