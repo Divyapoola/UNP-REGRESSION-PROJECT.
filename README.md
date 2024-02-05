@@ -16,3 +16,4 @@ COLLAB LINK:
 https://colab.research.google.com/drive/1C4aJFhLdhRs8CFonhsJ8w6tkfIQzEyPv?usp=sharing
 
 PPT LINK:
+https://docs.google.com/presentation/d/1RF1pqMu4NnH7edyFBFWGh1Q0WztYBD_D/edit?usp=drivesdk&ouid=112309280566618760086&rtpof=true&sd=true
