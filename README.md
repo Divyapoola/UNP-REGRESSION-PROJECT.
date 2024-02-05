@@ -12,6 +12,6 @@ Experimented with different machine learning algorithms linear regression, lasso
 Compared the results to recommend the best regression model.
 
 COLLAB LINK:
-https://drive.google.com/file/d/1KCKVp1dsBARQK75J4D19tvoZa0LoxueE/view?usp=sharing
 
+https://colab.research.google.com/drive/1C4aJFhLdhRs8CFonhsJ8w6tkfIQzEyPv?usp=sharing
 PPT LINK:
